@@ -33,3 +33,13 @@ cognifyz-level2-task2/
 ├── style.css
 ├── script.js
 └── README.md
+### 🎓 Internship
+
+Cognifyz Technologies – Web Development Internship
+
+**Task:** Level 2 – Task 2  
+**Topic:** Responsive Design
+
+### 👩‍💻 Author
+
+Ramitha Shet
